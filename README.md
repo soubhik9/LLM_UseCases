@@ -15,7 +15,7 @@ The system can answer questions about a text file (e.g., `spiderman.txt`) in a c
 ```
 .
 ├── spiderman.txt           # Input file with content to ask questions about
-├── main.py                 # Python script with the full pipeline
+├── QnA_ChatBot.py                 # Python script with the full pipeline
 └── README.md               # You're reading this!
 ```
 
@@ -26,7 +26,7 @@ The system can answer questions about a text file (e.g., `spiderman.txt`) in a c
 ### 1. Clone or download the repo
 
 ```bash
-git clone https://github.com/your-repo/qa-chat-llm-faiss.git
+git clone https://github.com/soubhik9/LLM_UseCases
 cd qa-chat-llm-faiss
 ```
 
